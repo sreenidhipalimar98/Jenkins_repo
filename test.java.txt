@@ -1,7 +1,11 @@
 class test
 {
-public static void main(Strings,args())
+public static void main(Strings[] args)
 {
 println("Hello Jenkins there is some changes");
 }
 }
+<<<<<<< HEAD
+=======
+}
+>>>>>>> e9cb6d285789284eb2a38c675ab9aea92621d2db
