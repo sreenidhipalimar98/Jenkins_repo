@@ -2,7 +2,7 @@ class test
 {
 public static void main(Strings[] args)
 {
-println("Hello Jenkins there is some changes on day two");
+println("Hello Jenkins there is some changes on day two and theree");
 }
 }
 <<<<<<< HEAD
